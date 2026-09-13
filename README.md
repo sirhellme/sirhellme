@@ -4,7 +4,7 @@
 
 I'm an Indonesian Physics undergraduate at **Universitas Tanjungpura** who spends a lot of time wandering around with a computer.
 
-I'm interested in **astrophysics, computational physics, and artificial intelligence** — especially where physics, mathematics, and code meet.
+I'm interested in **astrophysics, computational physics, and artificial intelligence** especially where physics, mathematics, and code meet.
 
 My goal is simple:
 
