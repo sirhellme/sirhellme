@@ -86,10 +86,12 @@ AI
 
 I don't really have a fixed roadmap.
 
+```text
 Sometimes I study physics.
 Sometimes I write Python.
 Sometimes I customize Linux for absolutely no reason.
 Sometimes I just stare at the night sky.
+```
 
 And sometimes an idea appears at 3 AM and I decide that it **must** be built.
 
