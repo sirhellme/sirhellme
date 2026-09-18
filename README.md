@@ -49,7 +49,7 @@ Currently running:
 
 ```text
 Arch Linux
-└── Hyprland
+└── Niri (hyprland is previous tm) 
     ├── Noctalia Shell
     ├── Kitty
     └── Fish
