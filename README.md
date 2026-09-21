@@ -1,4 +1,4 @@
-# Hi, I'm Helmi S. Bratama
+# Hi There, how did you get here?
 
 > Physics student · Linux enthusiast · curious about the universe
 
@@ -13,7 +13,6 @@ My goal is simple:
 I'm not working on anything particularly serious right now.
 I just like building things, breaking things, fixing them, and learning whatever catches my interest.
 
-> We're human. We're not perfect.
 > There's always something new to learn.
 
 ---
@@ -49,15 +48,14 @@ Currently running:
 
 ```text
 Arch Linux
-└── Niri (hyprland is previous tm) 
+└── Niri (im using hyprland previously) 
     ├── Noctalia Shell
     ├── Kitty
     └── Fish
 ```
 
 I like keeping my environment minimal, customizable, and a little bit weird.
-
-Most of my projects are written and experimented with using **VS Code**.
+And I LOVE IT 🫀
 
 ---
 
@@ -74,10 +72,10 @@ Programming
 ├── Python
 ├── C / C++
 ├── HTML / CSS / JavaScript
-└── Linux / Shell
+└── Bash Shell
 
 AI
-└── Computer Vision & Machine Learning
+└── Local AI Agent
 ```
 
 ---
