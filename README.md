@@ -14,14 +14,14 @@ I enjoy learning how things work, solving problems through programming, and buil
 
 ### Technologies & Tools
 - **Languages:** Python, C++, Rust
-- **Scientific Computing:** NumPy, Pandas, Matplotlib
-- **Tools:** Git, GitHub, Linux, VS Code
+- **Tools:** Git, GitHub, Linux, Nvim
 
 ### Currently Learning
 - Software Engineering
 - Data Structures & Algorithms
-- Rust Programming
-
+- Data Analytics
+- AI Engineering
 ---
 
 *Always learning, experimenting, and building.*
+*Don't just vibe coding, we're vibe engineering.*
