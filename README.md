@@ -1,112 +1,27 @@
-# Hi There, how did you get here?
+# Hi, I'm Helmi Saputra Bratama 👋
 
-> Physics student · Linux enthusiast · curious about the universe
+**Undergraduate Physics Student | Aspiring Software Engineer**
 
-I'm an Indonesian Physics undergraduate at **Universitas Tanjungpura** who spends a lot of time wandering around with a computer.
+I'm a Physics undergraduate student interested in exploring the intersection of physics, computation, and technology.
 
-I'm interested in **astrophysics, computational physics, and artificial intelligence** especially where physics, mathematics, and code meet.
+I enjoy learning how things work, solving problems through programming, and building projects that combine scientific concepts with software development.
 
-My goal is simple:
+### Interests
+- Computational Physics & Astrophysics
+- Software Engineering
+- Algorithms & Data Structures
+- Artificial Intelligence
 
-**become really good at physics and programming.**
+### Technologies & Tools
+- **Languages:** Python, C++, Rust
+- **Scientific Computing:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, Linux, VS Code
 
-I'm not working on anything particularly serious right now.
-I just like building things, breaking things, fixing them, and learning whatever catches my interest.
-
-> There's always something new to learn.
-
----
-
-## `whoami`
-
-```text
-Name       : Helmi S. Bratama
-Field      : Physics
-University : Universitas Tanjungpura
-Interests  : Astrophysics · Computational Physics · AI
-```
+### Currently Learning
+- Software Engineering
+- Data Structures & Algorithms
+- Rust Programming
 
 ---
 
-## Things I like
-
-* 🌌 Astrophysics & the universe
-* 🧮 Computational physics
-* 🤖 Artificial intelligence
-* 🐧 Linux & open source
-* 💻 Programming
-* 🔬 Physics simulations
-* 🧪 Experimenting with random ideas
-
-I enjoy learning by **making things**, even when the thing I'm making doesn't have much of a purpose.
-
----
-
-## Linux & Open Source
-
-Currently running:
-
-```text
-Arch Linux
-└── Niri (im using hyprland previously) 
-    ├── Noctalia Shell
-    ├── Kitty
-    └── Fish
-```
-
-I like keeping my environment minimal, customizable, and a little bit weird.
-And I LOVE IT 🫀
-
----
-
-## Currently exploring
-
-```text
-Physics
-├── Astrophysics
-├── Computational Physics
-├── Numerical Methods
-└── Physics Simulations
-
-Programming
-├── Python
-├── C / C++
-├── HTML / CSS / JavaScript
-└── Bash Shell
-
-AI
-└── Local AI Agent
-```
-
----
-
-## A little more about me
-
-I don't really have a fixed roadmap.
-
-```text
-Sometimes I study physics.
-Sometimes I write Python.
-Sometimes I customize Linux for absolutely no reason.
-Sometimes I just stare at the night sky.
-```
-
-And sometimes an idea appears at 3 AM and I decide that it **must** be built.
-
-That's basically it.
-
----
-
-## Contact
-
-If you want to reach me:
-
-* **Gmail:** [sirhellme@gmail.com](mailto:sirhellme@gmail.com)
-* **Instagram:** [@hell.void.flac](https://instagram.com/hell.void.flac)
-* **GitHub:** [@sirhellme](https://github.com/sirhellme)
-
----
-
-<p align="center">
-  <i>Keep the curiosity flow through your veins.</i>
-</p>
+*Always learning, experimenting, and building.*
