@@ -1,9 +1,8 @@
 # Hi, I'm Helmi Saputra Bratama 👋
-
-**Undergraduate Physics Student | Aspiring Software Engineer**
+---
+**Undergraduate Physics Student | A Hobbyst Programmer**
 
 I'm a Physics undergraduate student interested in exploring the intersection of physics, computation, and technology.
-
 I enjoy learning how things work, solving problems through programming, and building projects that combine scientific concepts with software development.
 
 ### Interests
