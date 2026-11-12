@@ -10,12 +10,12 @@ I enjoy understanding how things work, solving problems through code, and experi
 
 A little bit of everything, organized into separate playgrounds.
 
-- **Physics**  > Classical mechanics, astrophysics, and computational physics.
-- **Software Engineering** > Building software and exploring programming paradigms.
-- **Game Development** > Turning ideas into interactive experiences.
-- **Research** > Exploring scientific questions through experiments and simulations.
-- **System Infrastructure** > Linux, system configuration, and tinkering.
-- **Cybersecurity** > Learning how systems break, and how to make them stronger.
+- **Physics**  `Classical mechanics, astrophysics, and computational physics.`
+- **Software Engineering** `Building software and exploring programming paradigms.`
+- **Game Development** `Turning ideas into interactive experiences.`
+- **Research** `Exploring scientific questions through experiments and simulations.`
+- **System Infrastructure** `Linux, system configuration, and tinkering.`
+- **Cybersecurity** `Learning how systems break, and how to make them stronger.`
 
 ## Technologies & Tools
 
