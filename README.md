@@ -14,7 +14,7 @@ A little bit of everything, organized into separate playgrounds.
 - **Software Engineering** `Building software and exploring programming paradigms.`
 - **Game Development** `Turning ideas into interactive experiences.`
 - **Research** `Exploring scientific questions through experiments and simulations.`
-- **System Infrastructure** `Linux, system configuration, and tinkering.`
+- **System Infrastructure** `Linux.`
 - **Cybersecurity** `Learning how systems break, and how to make them stronger.`
 
 ## Technologies & Tools
